@@ -2,7 +2,7 @@
 EPAM Task on Maven and OOPS
 
 New Year's gift!
-*The hierarchy of chocolates and sweets!
+#*The hierarchy of chocolates and sweets!
 -->Chocolates:
     *Cadbury
     *Barone
