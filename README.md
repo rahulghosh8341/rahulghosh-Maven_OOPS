@@ -2,7 +2,7 @@
 EPAM Task on Maven and OOPS
 
 New Year's gift!<br />
-*The hierarchy of chocolates and sweets!<br />
+1) The hierarchy of chocolates and sweets!<br />
 -->Chocolates:<br />
     *Cadbury<br />
     *Barone<br />
@@ -13,7 +13,7 @@ New Year's gift!<br />
   *Kheer<br />
   *Kajukatli<br />
 
-*Collected children's gift to define total weight=560.<br />
-*Sort the chocolates in the gift according to there prices.<br />
-*Finding candies in the gift which are of high price.<br />
+2) Collected children's gift to define total weight=560.<br />
+3) Sort the chocolates in the gift according to there prices.<br />
+4) Finding candies in the gift which are of high price.<br />
  
